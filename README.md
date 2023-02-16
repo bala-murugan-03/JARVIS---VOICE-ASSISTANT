@@ -1,6 +1,7 @@
 
 # JARVIS---VOICE-ASSISTANT
-# FUCK
+ 
 
 
 
+helo today we gonna see how to create jarvis mama
